@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm kruti 👋✨
+
+💻 C++ & Java Developer (DSA)  
+⚙️ Systems & Backend Enthusiast  
+🤖 Exploring AI  
+🌱 Learning by building  
+
+---
+
+## 🚀 Projects 💫
+- Building and experimenting with systems & backend projects  
+- More coming soon 👀  
+
+---
+
+## 🛠️ Tech Stack 🧸
+C++ • Java • DSA • Git • GitHub  
+
+---
+
+## 📫 Connect 🌐
+💼 www.linkedin.com/in/kruti-vijay-a94938400
 
 <!--
 **kvijay5/kvijay5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
